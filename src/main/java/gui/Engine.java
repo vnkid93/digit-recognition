@@ -13,4 +13,8 @@ public class Engine {
 	public void train(List<Image> dataList){
 		
 	}
+	
+	public void test(List<Image> dataList){
+		
+	}
 }
