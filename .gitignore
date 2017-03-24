@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+t10k-images.idx3-ubyte
+t10k-labels.idx1-ubyte
+target/classes/data/Image.class
+target/classes/gui/Engine.class
+target/classes/gui/Main.class
+target/classes/loader/DataLoader.class
+target/classes/util/Constants.class
+target/classes/util/Operations.class
+train-images.idx3-ubyte
+train-labels.idx1-ubyte
